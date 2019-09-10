@@ -1,2 +1,2 @@
-2019_FAll_CSC-CIS_17a >> endl;
-Riverside City College Programming C++; Objects 
+# 2019_Fall_CSC-CIS_17a
+Riverside City College Programming C++: Objects
